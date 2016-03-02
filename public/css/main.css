@@ -1,0 +1,22 @@
+.block{
+    background-color: #000;
+    height: 42px;
+    border: 1px solid #000;
+}
+.water{
+    background-color: #2e6da4;
+}
+.ship{
+    background-color: #8e8a8b;
+}
+.ship-hit{
+    background-color: #ff1610;
+}
+.water-hit{
+    background: url('/public/img/hit.png') no-repeat center center #2e6da4;
+}
+
+.text-white{
+    color: #fff;
+    padding-top: 8px;
+}
